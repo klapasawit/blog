@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+}
